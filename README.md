@@ -1,4 +1,4 @@
-# SCT_TrackCode_Task-2
+# SCT_DS_Task-2
 
 🚢 Task 02 – Data Cleaning & EDA on Titanic Dataset
 
